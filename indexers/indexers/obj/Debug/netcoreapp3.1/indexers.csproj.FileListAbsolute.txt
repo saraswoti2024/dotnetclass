@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\dotnet\indexers\indexers\bin\Debug\netcoreapp3.1\indexers.exe
+C:\Users\USER\Desktop\dotnet\indexers\indexers\bin\Debug\netcoreapp3.1\indexers.deps.json
+C:\Users\USER\Desktop\dotnet\indexers\indexers\bin\Debug\netcoreapp3.1\indexers.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\indexers\indexers\bin\Debug\netcoreapp3.1\indexers.runtimeconfig.dev.json
+C:\Users\USER\Desktop\dotnet\indexers\indexers\bin\Debug\netcoreapp3.1\indexers.dll
+C:\Users\USER\Desktop\dotnet\indexers\indexers\bin\Debug\netcoreapp3.1\indexers.pdb
+C:\Users\USER\Desktop\dotnet\indexers\indexers\obj\Debug\netcoreapp3.1\indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\indexers\indexers\obj\Debug\netcoreapp3.1\indexers.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\indexers\indexers\obj\Debug\netcoreapp3.1\indexers.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\indexers\indexers\obj\Debug\netcoreapp3.1\indexers.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\indexers\indexers\obj\Debug\netcoreapp3.1\indexers.dll
+C:\Users\USER\Desktop\dotnet\indexers\indexers\obj\Debug\netcoreapp3.1\indexers.pdb
+C:\Users\USER\Desktop\dotnet\indexers\indexers\obj\Debug\netcoreapp3.1\indexers.genruntimeconfig.cache

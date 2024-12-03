@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\bin\Debug\netcoreapp3.1\dotnetclasses.exe
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\bin\Debug\netcoreapp3.1\dotnetclasses.deps.json
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\bin\Debug\netcoreapp3.1\dotnetclasses.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\bin\Debug\netcoreapp3.1\dotnetclasses.runtimeconfig.dev.json
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\bin\Debug\netcoreapp3.1\dotnetclasses.dll
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\bin\Debug\netcoreapp3.1\dotnetclasses.pdb
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\obj\Debug\netcoreapp3.1\dotnetclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\obj\Debug\netcoreapp3.1\dotnetclasses.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\obj\Debug\netcoreapp3.1\dotnetclasses.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\obj\Debug\netcoreapp3.1\dotnetclasses.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\obj\Debug\netcoreapp3.1\dotnetclasses.sourcelink.json
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\obj\Debug\netcoreapp3.1\dotnetclasses.dll
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\obj\Debug\netcoreapp3.1\dotnetclasses.pdb
+C:\Users\USER\Desktop\dotnet\dotnetclasses\dotnetclasses\obj\Debug\netcoreapp3.1\dotnetclasses.genruntimeconfig.cache

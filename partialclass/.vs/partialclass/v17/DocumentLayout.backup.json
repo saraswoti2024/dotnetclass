@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\dotnet\\partialclass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96260DBD-BF20-4346-9DF2-F408E3194A4C}|partialclass\\partialclass.csproj|c:\\users\\user\\desktop\\dotnet\\partialclass\\partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96260DBD-BF20-4346-9DF2-F408E3194A4C}|partialclass\\partialclass.csproj|solutionrelative:partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96260DBD-BF20-4346-9DF2-F408E3194A4C}|partialclass\\partialclass.csproj|c:\\users\\user\\desktop\\dotnet\\partialclass\\partialclass\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96260DBD-BF20-4346-9DF2-F408E3194A4C}|partialclass\\partialclass.csproj|solutionrelative:partialclass\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96260DBD-BF20-4346-9DF2-F408E3194A4C}|partialclass\\partialclass.csproj|c:\\users\\user\\desktop\\dotnet\\partialclass\\partialclass\\filename1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96260DBD-BF20-4346-9DF2-F408E3194A4C}|partialclass\\partialclass.csproj|solutionrelative:partialclass\\filename1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileName1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\dotnet\\partialclass\\partialclass\\FileName1.cs",
+              "RelativeDocumentMoniker": "partialclass\\FileName1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\dotnet\\partialclass\\partialclass\\FileName1.cs",
+              "RelativeToolTip": "partialclass\\FileName1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:44:48.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\dotnet\\partialclass\\partialclass\\FileName.cs",
+              "RelativeDocumentMoniker": "partialclass\\FileName.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\dotnet\\partialclass\\partialclass\\FileName.cs",
+              "RelativeToolTip": "partialclass\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:42:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\dotnet\\partialclass\\partialclass\\Program.cs",
+              "RelativeDocumentMoniker": "partialclass\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\dotnet\\partialclass\\partialclass\\Program.cs",
+              "RelativeToolTip": "partialclass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:35:15.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

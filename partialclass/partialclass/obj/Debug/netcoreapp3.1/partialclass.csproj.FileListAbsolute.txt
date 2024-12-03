@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\bin\Debug\netcoreapp3.1\partialclass.exe
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\bin\Debug\netcoreapp3.1\partialclass.deps.json
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\bin\Debug\netcoreapp3.1\partialclass.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\bin\Debug\netcoreapp3.1\partialclass.runtimeconfig.dev.json
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\bin\Debug\netcoreapp3.1\partialclass.dll
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\bin\Debug\netcoreapp3.1\partialclass.pdb
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\obj\Debug\netcoreapp3.1\partialclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\obj\Debug\netcoreapp3.1\partialclass.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\obj\Debug\netcoreapp3.1\partialclass.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\obj\Debug\netcoreapp3.1\partialclass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\obj\Debug\netcoreapp3.1\partialclass.dll
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\obj\Debug\netcoreapp3.1\partialclass.pdb
+C:\Users\USER\Desktop\dotnet\partialclass\partialclass\obj\Debug\netcoreapp3.1\partialclass.genruntimeconfig.cache

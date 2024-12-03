@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\bin\Debug\netcoreapp3.1\staticclass.exe
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\bin\Debug\netcoreapp3.1\staticclass.deps.json
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\bin\Debug\netcoreapp3.1\staticclass.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\bin\Debug\netcoreapp3.1\staticclass.runtimeconfig.dev.json
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\bin\Debug\netcoreapp3.1\staticclass.dll
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\bin\Debug\netcoreapp3.1\staticclass.pdb
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\obj\Debug\netcoreapp3.1\staticclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\obj\Debug\netcoreapp3.1\staticclass.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\obj\Debug\netcoreapp3.1\staticclass.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\obj\Debug\netcoreapp3.1\staticclass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\obj\Debug\netcoreapp3.1\staticclass.dll
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\obj\Debug\netcoreapp3.1\staticclass.pdb
+C:\Users\USER\Desktop\dotnet\staticclass\staticclass\obj\Debug\netcoreapp3.1\staticclass.genruntimeconfig.cache

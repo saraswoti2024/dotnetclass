@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\obj\Debug\netcoreapp3.1\accessmodifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\obj\Debug\netcoreapp3.1\accessmodifier.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\obj\Debug\netcoreapp3.1\accessmodifier.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\obj\Debug\netcoreapp3.1\accessmodifier.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\bin\Debug\netcoreapp3.1\accessmodifier.exe
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\bin\Debug\netcoreapp3.1\accessmodifier.deps.json
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\bin\Debug\netcoreapp3.1\accessmodifier.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\bin\Debug\netcoreapp3.1\accessmodifier.runtimeconfig.dev.json
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\bin\Debug\netcoreapp3.1\accessmodifier.dll
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\bin\Debug\netcoreapp3.1\accessmodifier.pdb
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\obj\Debug\netcoreapp3.1\accessmodifier.dll
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\obj\Debug\netcoreapp3.1\accessmodifier.pdb
+C:\Users\USER\Desktop\dotnet\accessmodifier\accessmodifier\obj\Debug\netcoreapp3.1\accessmodifier.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\dotnet\constructor\constructor\bin\Debug\netcoreapp3.1\constructor.exe
+C:\Users\USER\Desktop\dotnet\constructor\constructor\bin\Debug\netcoreapp3.1\constructor.deps.json
+C:\Users\USER\Desktop\dotnet\constructor\constructor\bin\Debug\netcoreapp3.1\constructor.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\constructor\constructor\bin\Debug\netcoreapp3.1\constructor.runtimeconfig.dev.json
+C:\Users\USER\Desktop\dotnet\constructor\constructor\bin\Debug\netcoreapp3.1\constructor.dll
+C:\Users\USER\Desktop\dotnet\constructor\constructor\bin\Debug\netcoreapp3.1\constructor.pdb
+C:\Users\USER\Desktop\dotnet\constructor\constructor\obj\Debug\netcoreapp3.1\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\constructor\constructor\obj\Debug\netcoreapp3.1\constructor.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\constructor\constructor\obj\Debug\netcoreapp3.1\constructor.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\constructor\constructor\obj\Debug\netcoreapp3.1\constructor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\constructor\constructor\obj\Debug\netcoreapp3.1\constructor.dll
+C:\Users\USER\Desktop\dotnet\constructor\constructor\obj\Debug\netcoreapp3.1\constructor.pdb
+C:\Users\USER\Desktop\dotnet\constructor\constructor\obj\Debug\netcoreapp3.1\constructor.genruntimeconfig.cache

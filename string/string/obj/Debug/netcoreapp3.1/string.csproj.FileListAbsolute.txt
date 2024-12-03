@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\dotnet\string\string\bin\Debug\netcoreapp3.1\string.exe
+C:\Users\USER\Desktop\dotnet\string\string\bin\Debug\netcoreapp3.1\string.deps.json
+C:\Users\USER\Desktop\dotnet\string\string\bin\Debug\netcoreapp3.1\string.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\string\string\bin\Debug\netcoreapp3.1\string.runtimeconfig.dev.json
+C:\Users\USER\Desktop\dotnet\string\string\bin\Debug\netcoreapp3.1\string.dll
+C:\Users\USER\Desktop\dotnet\string\string\bin\Debug\netcoreapp3.1\string.pdb
+C:\Users\USER\Desktop\dotnet\string\string\obj\Debug\netcoreapp3.1\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\string\string\obj\Debug\netcoreapp3.1\string.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\string\string\obj\Debug\netcoreapp3.1\string.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\string\string\obj\Debug\netcoreapp3.1\string.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\string\string\obj\Debug\netcoreapp3.1\string.dll
+C:\Users\USER\Desktop\dotnet\string\string\obj\Debug\netcoreapp3.1\string.pdb
+C:\Users\USER\Desktop\dotnet\string\string\obj\Debug\netcoreapp3.1\string.genruntimeconfig.cache
