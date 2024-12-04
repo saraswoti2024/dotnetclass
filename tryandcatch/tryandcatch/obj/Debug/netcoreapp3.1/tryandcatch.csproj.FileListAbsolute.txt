@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\bin\Debug\netcoreapp3.1\tryandcatch.exe
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\bin\Debug\netcoreapp3.1\tryandcatch.deps.json
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\bin\Debug\netcoreapp3.1\tryandcatch.runtimeconfig.json
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\bin\Debug\netcoreapp3.1\tryandcatch.runtimeconfig.dev.json
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\bin\Debug\netcoreapp3.1\tryandcatch.dll
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\bin\Debug\netcoreapp3.1\tryandcatch.pdb
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\obj\Debug\netcoreapp3.1\tryandcatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\obj\Debug\netcoreapp3.1\tryandcatch.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\obj\Debug\netcoreapp3.1\tryandcatch.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\obj\Debug\netcoreapp3.1\tryandcatch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\obj\Debug\netcoreapp3.1\tryandcatch.sourcelink.json
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\obj\Debug\netcoreapp3.1\tryandcatch.dll
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\obj\Debug\netcoreapp3.1\tryandcatch.pdb
+C:\Users\USER\Desktop\dotnet\tryandcatch\tryandcatch\obj\Debug\netcoreapp3.1\tryandcatch.genruntimeconfig.cache
